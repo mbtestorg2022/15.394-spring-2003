@@ -24,10 +24,119 @@ Students who are planning to launch an entrepreneurial venture can use this cour
 Deadlines and Deliverables
 --------------------------
 
-| DUE DATE | OPTION 1:  {{< br >}}STUDYING AN EXISTING ENTREPRENEURIAL FIRM | OPTION 2:  {{< br >}}PERSONAL DEVELOPMENT | OPTION 3:  {{< br >}}WRITING AN EXPANDED BUSINESS PLAN |
-| --- | --- | --- | --- |
-| Part I  {{< br >}}Session 4 | Firm Overview and References (2-3 Pages) | Learning Objectives & Project Plan (5-10 Pages) | Industry Overview (2-5 Pages) |
-| Part II  {{< br >}}Session 12 | Strategic Analysis  {{< br >}}(5-10 Pages) | Social Capital Analysis  {{< br >}}(5-10 Pages) | Strategy & Competitive Advantage  {{< br >}}(5-10 Pages) |
-| Part III  {{< br >}}Session 14 | Social Capital Analysis  {{< br >}}(~1 Page Per Founder and/or Top Management Team Member) | Developmental Experience  {{< br >}}(5-10 Pages) | Social Capital Analysis  {{< br >}}(5-10 Pages) |
-| Part IV  {{< br >}}Session 19 | Organizational Analysis & Recommendations  {{< br >}}(7-15 Pages) | Developmental Experience  {{< br >}}(5-10 Pages) | Labor Market Strategy & Employment Model  {{< br >}}(5-15 Pages) |
-| Final  {{< br >}}Session 24 | Final Report  {{< br >}}(15-40 Pages) | Final Report  {{< br >}}(15-40 Pages) | Final Report  {{< br >}}(15-40 Pages)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DUE DATE
+{{< thclose >}}
+{{< thopen >}}
+OPTION 1:  
+STUDYING AN EXISTING ENTREPRENEURIAL FIRM
+{{< thclose >}}
+{{< thopen >}}
+OPTION 2:  
+PERSONAL DEVELOPMENT
+{{< thclose >}}
+{{< thopen >}}
+OPTION 3:  
+WRITING AN EXPANDED BUSINESS PLAN
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Part I  
+Session 4
+{{< tdclose >}}
+{{< tdopen >}}
+Firm Overview and References (2-3 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+Learning Objectives & Project Plan (5-10 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+Industry Overview (2-5 Pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Part II  
+Session 12
+{{< tdclose >}}
+{{< tdopen >}}
+Strategic Analysis  
+(5-10 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+Social Capital Analysis  
+(5-10 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+Strategy & Competitive Advantage  
+(5-10 Pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Part III  
+Session 14
+{{< tdclose >}}
+{{< tdopen >}}
+Social Capital Analysis  
+(~1 Page Per Founder and/or Top Management Team Member)
+{{< tdclose >}}
+{{< tdopen >}}
+Developmental Experience  
+(5-10 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+Social Capital Analysis  
+(5-10 Pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Part IV  
+Session 19
+{{< tdclose >}}
+{{< tdopen >}}
+Organizational Analysis & Recommendations  
+(7-15 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+Developmental Experience  
+(5-10 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+Labor Market Strategy & Employment Model  
+(5-15 Pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final  
+Session 24
+{{< tdclose >}}
+{{< tdopen >}}
+Final Report  
+(15-40 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+Final Report  
+(15-40 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+Final Report  
+(15-40 Pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
